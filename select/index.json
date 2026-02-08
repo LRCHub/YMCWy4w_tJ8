@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラズベリーポイズン",
+  "base_artist": "john",
+  "createdAt": "2026-02-08T03:56:37.313621Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラズベリーポイズン",
+      "artist": "john",
+      "has_synced": false,
+      "path": "select/pl_01_ラズベリーポイズン_john.txt"
+    }
+  ]
+}
